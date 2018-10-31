@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "title": "Tarea 1",
+            "Responsible": "Helmut",
+            "description": "lorem impsun",
+            "priority": "low"
+        },
+        {
+            "title": "Tarea 2",
+            "Responsible": "Josue",
+            "description": "lorem impsun",
+            "priority": "medium"
+        },
+        {
+            "title": "Tarea 3",
+            "Responsible": "Yara",
+            "description": "lorem impsun",
+            "priority": "high"
+        },
+        {
+            "title": "Tarea 4",
+            "Responsible": "Daniela",
+            "description": "lorem impsun",
+            "priority": "high"
+        }
+    ]
+}
